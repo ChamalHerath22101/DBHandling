@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/student/Downloads/DBHandling-20190906T051847Z-001/DBHandling/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw/values-sw.xml",
+            "outputFile": "/home/student/Downloads/DBHandling/DBHandling/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw/values-sw.xml",
             "map": [
                 {
                     "source": "/home/student/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/85fcecab91bbf8475ca93dc60f614b50/res/values-sw/values-sw.xml",
